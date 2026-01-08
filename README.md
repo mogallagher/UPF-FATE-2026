@@ -1,6 +1,6 @@
 # UPF-FATE-2025/2026
 
-Instructor: [Ashwin Singh](https://rashomonset.github.io)
+Instructor: [Morgan Gallagher](https://github.com/mogallagher)
 
 Repository containing programming practices for final-year undergraduate students of *Data Science* and *Computer Engineering*, enrolled in the *Fairness, Accountability, Transparency and Ethics (FATE)* Course at **Universitat Pompeu Fabra, Barcelona**. Visit the [Course Website](https://sites.google.com/view/upf-fate) for more information.
 
