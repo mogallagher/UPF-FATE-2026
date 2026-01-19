@@ -1,4 +1,4 @@
-# UPF-FATE-2025/2026
+# UPF-FATE-2026/2027
 
 Instructor: [Morgan Gallagher](https://github.com/mogallagher)
 
@@ -32,3 +32,4 @@ Repository containing programming practices for final-year undergraduate student
 * :computer: **Notebook**: Practices to be completed by students.
 * :file_folder: **Data**: To be used during practices.
 * :file_folder: **Solved**: Solved Practices, available after each deadline.
+* :mortar_board: [Evaluation rules](upf/upf-evaluation.md) for labs.
