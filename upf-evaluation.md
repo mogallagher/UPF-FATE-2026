@@ -25,7 +25,7 @@ Each submission should include the following information at the top of the noteb
 * the author name(s) and e-mail(s), and
 * the date in which the report was completed.
 
-All notebooks should end with your signature to the following statement:
+All notebooks should end with your signature (printed name) to the following statement:
 
 > **I hereby declare that, except for the code provided by the course instructors, all of my code, report, and figures were produced by myself.**
 
@@ -61,10 +61,8 @@ As a data scientist your reports and code should be (among other things) correct
 
 # 3. Asking questions
 
-* As a general rule, please, **do not e-mail theory or practice instructors**. One exception to this rule is to communicate a justified absence to a practice session to the practice instructor, attaching the related justification (e.g., a medical appointment). Please use Aula Global's forum when appropriate.
+* As a general rule, please, **do not e-mail theory or practice instructors**. One exception to this rule is to communicate a justified absence to a practice session to the practice instructor, attaching the related justification (e.g., a medical appointment).
 
 * If you need help installing software or packages in your computer, please ask your classmates, for instance, through the Aula Global's forum. Instructors are not responsible for debugging your installation. As (future) data scientists, you should be able to install software on your own. **You are responsible for having the necessary software installed before the start of the practice session.**
 
-* Please use the "Notice board" for general questions, and the forums "Questions about theory" and "Questions about practices" for questions on theory and practices. If any question is not answered in the forum, you can e-mail the instructors and ask for an appointment. 
-
-* Feel free to ask questions in English, Catalan, or Spanish, independently of the language of your group.
+* Please post on Aula Global's forum for questions about practices. This is for everyone's benefit :smile:.
