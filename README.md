@@ -4,6 +4,9 @@ Instructor: [Morgan Gallagher](https://github.com/mogallagher)
 
 Repository containing programming practices for final-year undergraduate students of *Data Science* and *Computer Engineering*, enrolled in the *Fairness, Accountability, Transparency and Ethics (FATE)* Course at **Universitat Pompeu Fabra, Barcelona**. Visit the [Course Website](https://sites.google.com/view/upf-fate) for more information.
 
+## Note to Students
+This repository is currently a work in progress. While you may look ahead at future practices, they are subject to change. The practice released on Aula Global is what you should work on and submit.
+
 ## Objective of the Sessions
 
 ### I. Data Anonymization
