@@ -7,7 +7,7 @@ Repository containing programming practices for final-year undergraduate student
 ## Objective of the Sessions
 
 ### I. Data Anonymization
-*   Code Satisfiability of Anonymity Criteria ($k$-Anonymity, $l$-Diversity, $t$-Closeness).
+*   Code Satisfiability of Anonymity Criteria ($k$-Anonymity and $l$-Diversity).
 *   Implement Perturbative & Non-Perturbative Methods for satisfying Anonymity Criteria.
 *   Understand Trade-Offs in Anonymization and Limitations of different Anonymity Criteria.
 
