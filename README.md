@@ -32,4 +32,4 @@ Repository containing programming practices for final-year undergraduate student
 * :computer: **Notebook**: Practices to be completed by students.
 * :file_folder: **Data**: To be used during practices.
 * :file_folder: **Solved**: Solved Practices, available after each deadline.
-* :mortar_board: [Evaluation rules](upf/upf-evaluation.md) for labs.
+* :mortar_board: [Evaluation rules](https://github.com/mogallagher/UPF-FATE-2026/blob/main/upf-evaluation.md) for labs.
