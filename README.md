@@ -23,10 +23,6 @@ This repository is currently a work in progress. While you may look ahead at fut
 ### III. Algorithmic Fairness: Classification
 *   Recap of Confusion Matrices, Receiver Operating Characteristic and Error Detection Curves. 
 *   Implement different Pre/In/Post-Processing methods using [AIF360](https://github.com/Trusted-AI/AIF360) to improve Model Fairness.
-*   Work on a Project, from Discrimination-Discovery to Mitigation of Disparate Impact; **Bonus**:
-    *   *Model Explanaibility using Counterfactuals, LIME & SHAP.*
-    *   *Ablation on Feature Subsets for improved Model Fairness.*
-    *   *Effect of* $k$-*Anonymization on Model Fairness*.
 
 ## Contents of this Repository
 
