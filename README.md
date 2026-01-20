@@ -36,3 +36,4 @@ This repository is currently a work in progress. While you may look ahead at fut
 * :file_folder: **Data**: To be used during practices.
 * :file_folder: **Solved**: Solved Practices, available after each deadline.
 * :mortar_board: [Evaluation rules](https://github.com/mogallagher/UPF-FATE-2026/blob/main/upf-evaluation.md) for labs.
+* :mortar_board: [Use of AI](https://github.com/mogallagher/UPF-FATE-2026/blob/main/ai-statement.md) for labs.
